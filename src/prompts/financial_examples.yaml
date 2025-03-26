@@ -1,0 +1,8 @@
+examples:
+  - context: "Cash and cash equivalents were $190.8 million as of December 31, 2019, a decrease of $179.8 million compared to December 31, 2018"
+    query: "What was the total cash and cash equivalents for the latest year?"
+    expected_answer: "$190.8 million"
+
+  - context: "The effective income tax rate for the year ended December 31, 2023 was 21.5%."
+    query: "Effective income tax rate for the latest year?"
+    expected_answer: "21.5%" 
