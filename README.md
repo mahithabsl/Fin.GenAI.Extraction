@@ -2,6 +2,8 @@
 
 A powerful tool for analyzing and extracting information from EDGAR filings using advanced AI techniques. This project provides an interactive interface to analyze 10-K filings, extract key financial information, and visualize the results.
 
+![Alt Text](https://github.com/mahithabsl/Fin.GenAI.Extraction/blob/main/images/ss_2.png)
+
 ## Features
 
 - 🔍 Interactive EDGAR filing analysis through a Streamlit interface
